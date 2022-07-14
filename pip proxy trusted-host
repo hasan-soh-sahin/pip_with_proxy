@@ -1,0 +1,6 @@
+(venv) [<user>@<host> tmp]$ sudo pip3 install explainerdashboard --trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host ftp.postgresql.org --proxy=http://<proxy_user>:<proxy_psw>@<proxy_host>:8080
+[sudo] password for airflow:
+Collecting explainerdashboard
+  Downloading explainerdashboard-0.3.8.2-py3-none-any.whl (305 kB)
+     |████████████████████████████████| 305 kB 2.4 MB/s
+(venv) [<user>@<host> tmp]$ 
