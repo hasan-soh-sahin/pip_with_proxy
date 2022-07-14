@@ -4,3 +4,11 @@ Collecting explainerdashboard
   Downloading explainerdashboard-0.3.8.2-py3-none-any.whl (305 kB)
      |████████████████████████████████| 305 kB 2.4 MB/s
 (venv) [<user>@<host> tmp]$ 
+
+
+[<user>@<host> tmp]$ source bin/activate
+(venv [<user>@<host> tmp]$ export https_proxy=http://usr:pp@host:8080
+(venv) [<user>@<host> tmp]$ pip install explainerdashboard
+Collecting explainerdashboard
+  Downloading explainerdashboard-0.3.8.2-py3-none-any.whl (305 kB)
+     |████████████████████████████████| 305 kB 1.9 MB/s
