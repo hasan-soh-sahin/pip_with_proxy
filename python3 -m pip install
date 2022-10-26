@@ -1,0 +1,3 @@
+export https_proxy=http://<u>:<p>@10.1.11.50:8080
+
+(venv) [airflow@dwhairflow02 venv]$ python3 -m pip install pysnmp
